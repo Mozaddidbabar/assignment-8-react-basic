@@ -1,0 +1,22 @@
+.writter img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.writter{
+    background-color: aliceblue;
+    text-align: center;
+    line-height: 0.5;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.writter p{
+    font-size: 1.5em;
+}
+.addToList{
+    background-color: goldenrod;
+    padding: 7px;
+    border-radius: 15px;
+    cursor: pointer;
+}

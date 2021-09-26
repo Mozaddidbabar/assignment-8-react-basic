@@ -1,0 +1,11 @@
+.header{
+    background-color: aquamarine;
+    text-align: center;
+    font-weight: 400;
+    margin: 10px;
+    border: 2px solid slategrey;
+    border-radius: 20px;
+}
+.header p{
+    font-size: 30px;
+}

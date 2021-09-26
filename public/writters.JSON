@@ -1,0 +1,91 @@
+[
+    {
+        "key": "4",
+        "category": "Poet",
+        "name": "Abdul Mannan Syed",
+        "home": "Jalalpur",
+        "age": 67,
+        "book": 31,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Abdul-Mannan-Syed-2009.jpg/330px-Abdul-Mannan-Syed-2009.jpg"
+    },
+    {
+        "key": "5",
+        "category": "Novelist",
+        "name": "Akhteruzzaman Elias",
+        "home": "Gotia",
+        "age": 53,
+        "book": 25,
+        "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Akhteruzzaman_Elias.jpg"
+    },
+    {
+        "key": "6",
+        "category": "Poet and writter",
+        "name": "Kazi Nazrul Islam",
+        "age": 77,
+        "book": 20,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nazrul.jpg",
+        "home": "Bangladesh"
+    },
+    {
+        "key": "7",
+        "category": "Writer",
+        "name": "Sadat Hossain",
+        "age": 60,
+        "book": 20,
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/AbulMansurAhmedPic.jpg"
+    },
+    {
+        "key": "8",
+        "category": "Poet",
+        "name": "Anisul Hoque",
+        "age": 56,
+        "book": 41,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anisul_Hoque_-_Dhaka_2015-05-30_1676.JPG/330px-Anisul_Hoque_-_Dhaka_2015-05-30_1676.JPG",
+        "home": "Rangpur"
+    },
+    {
+        "key": "9",
+        "category": "Poet",
+        "name": "Mohammod Nojibur Rahman",
+        "age": 100,
+        "book": 15,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpng.jpg/330px-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8.jpng.jpg",
+        "home": "Sirajgonj"
+    },
+    {
+        "key": "10",
+        "category": "Poet",
+        "name": "Abul Mansur Ahmad",
+        "age": 60,
+        "book": 20,
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/AbulMansurAhmedPic.jpg",
+        "home": "Dhaka"
+    },
+    {
+        "key": "1",
+        "category": "Novelist",
+        "name": "Abu Ishaque",
+        "home": "Faridpur",
+        "age": 76,
+        "book": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/64/Abu_Ishaque_photograph.jpg"
+    },
+    {
+        "key": "2",
+        "category": "writer",
+        "name": "Abdullah Abu Sayeed",
+        "home": "Calcutta",
+        "age": 82,
+        "book": 21,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Abdullah_Abu_Sayeed_%28cropped%29.jpg/330px-Abdullah_Abu_Sayeed_%28cropped%29.jpg"
+    },
+    {
+        "key": "3",
+        "category": "writer",
+        "name": "Abu Rushd",
+        "home": "Calcutta",
+        "age": 90,
+        "book": 30,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Abu-Rushd.jpg/330px-Abu-Rushd.jpg"
+    }
+]

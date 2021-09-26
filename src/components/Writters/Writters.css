@@ -1,0 +1,17 @@
+.writters-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-bottom: 10px;
+    
+}
+.writter-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-left: 30px;
+    border-right: 1px solid grey;
+}
+.list-container{
+    margin-left: 10px;
+}

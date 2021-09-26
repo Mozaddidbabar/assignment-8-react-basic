@@ -1,0 +1,20 @@
+.list-items{
+    margin-left: 10px;
+}
+.list-items p{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+.list-items h4{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(146, 143, 143);
+    border-radius: 20px;
+}
+.see-details{
+    padding: 10px;
+    cursor: pointer;
+    background-color: khaki;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
